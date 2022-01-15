@@ -14,6 +14,8 @@ Responsive Web Design на freeCodeCamp.org.
 * CSS
 
 <h2 align="center">Дополнительно</h2>
-Посмотреть модно [здесь](https://natalielinen.github.io/survey-form/)
+Посмотреть страницу можно [здесь](https://natalielinen.github.io/survey-form/)
+
+[Сертификат](https://www.freecodecamp.org/certification/natalielinen/responsive-web-design)
 
 
